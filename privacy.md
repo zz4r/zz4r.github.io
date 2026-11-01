@@ -1,3 +1,5 @@
+---
+---
 # Privacy Policy
 
 This policy explains what data **\[Us ? \]** ("the Bot") collects and how it is used.
