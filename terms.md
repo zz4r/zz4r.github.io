@@ -1,3 +1,5 @@
+---
+---
 # Terms of Service 
 
 Template for **\[Us ? \]** (Discord bot) · Last updated: November 1, 2026
